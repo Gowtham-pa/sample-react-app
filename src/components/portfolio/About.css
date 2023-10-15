@@ -1,0 +1,12 @@
+#bgcolor{
+ /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9srTKBXLJcrxZYiE6aXQ-cR8qQG19n20qyA&usqp=CAU"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-image: linear-gradient(rgb(137, 242, 250),rgb(248, 156, 248),rgb(8, 238, 142));
+}
+#size{
+    width: 50vb;
+    border-radius: 50px;
+    
+}

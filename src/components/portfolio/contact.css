@@ -1,0 +1,9 @@
+.size{
+    width: 100%;
+    padding-left:200px;
+}
+.backimg{
+    background-image: url("https://images.unsplash.com/photo-1614850523011-8f49ffc73908?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

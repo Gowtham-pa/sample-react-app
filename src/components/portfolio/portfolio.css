@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,700&family=Nunito&display=swap');
+#bgimg {
+    background-image: linear-gradient(to top left,blue,lightblue);
+    height: 100vh;
+}
+#Name {
+    color: rgb(240, 7, 7);
+}
+
+#textEDIT {
+    color: grey;
+    letter-spacing: 1px;
+}
+
+#textEDIT:hover {
+    font-weight: bolder;
+    color: rgb(243, 15, 15);
+    letter-spacing: 1px;
+    padding: 10px;
+
+}
+
+#typWrt {
+    text-align: center;
+    color: rgb(246, 247, 248);
+    font-size: xxx-large;
+    position: relative;
+    top: 200px;
+}
+
+#bgtext{
+    font-family: 'Merriweather', serif;
+}

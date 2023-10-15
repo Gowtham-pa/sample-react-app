@@ -1,0 +1,7 @@
+*#FBBODY{
+    height: 100vh;
+    background-image: linear-gradient(to top right,orange,red);
+}
+#FEEDMT{
+    margin-top: 10%;
+}

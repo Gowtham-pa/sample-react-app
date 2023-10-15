@@ -1,0 +1,11 @@
+#HOMEPORt{
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/originals/7c/83/af/7c83afe4915fc72564941ab32ff1e37d.gif");
+}
+#shadow{
+    color: blue;
+    position: absolute;
+    left: 40%;
+    text-shadow: 3px 3px rgb(236, 225, 225);
+   font-size: xxx-large;
+}
